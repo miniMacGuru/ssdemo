@@ -1,1 +1,3 @@
 Example license file.
+
+Creative commons or BSD?
