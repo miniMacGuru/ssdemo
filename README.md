@@ -1,2 +1,2 @@
 # ssdemo
-Demo project
+Demo project for learning git.
